@@ -1,0 +1,5 @@
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Arreglos\tabla del 1 al 12\tabla del 1 al 12\bin\Debug\tabla del 1 al 12.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Arreglos\tabla del 1 al 12\tabla del 1 al 12\bin\Debug\tabla del 1 al 12.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Arreglos\tabla del 1 al 12\tabla del 1 al 12\obj\Debug\tabla del 1 al 12.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Arreglos\tabla del 1 al 12\tabla del 1 al 12\obj\Debug\tabla del 1 al 12.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Arreglos\tabla del 1 al 12\tabla del 1 al 12\obj\Debug\tabla del 1 al 12.pdb

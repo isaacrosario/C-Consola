@@ -1,0 +1,5 @@
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\los del 30 hasta el 5 descendente\los del 30 hasta el 5 descendente\bin\Debug\los del 30 hasta el 5 descendente.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\los del 30 hasta el 5 descendente\los del 30 hasta el 5 descendente\bin\Debug\los del 30 hasta el 5 descendente.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\los del 30 hasta el 5 descendente\los del 30 hasta el 5 descendente\obj\Debug\los del 30 hasta el 5 descendente.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\los del 30 hasta el 5 descendente\los del 30 hasta el 5 descendente\obj\Debug\los del 30 hasta el 5 descendente.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\los del 30 hasta el 5 descendente\los del 30 hasta el 5 descendente\obj\Debug\los del 30 hasta el 5 descendente.csprojResolveAssemblyReference.cache

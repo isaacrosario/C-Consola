@@ -1,0 +1,9 @@
+c:\users\administrador\documents\visual studio 2012\Projects\Comparacion\Comparacion\bin\Debug\Comparacion.exe.config
+c:\users\administrador\documents\visual studio 2012\Projects\Comparacion\Comparacion\bin\Debug\Comparacion.exe
+c:\users\administrador\documents\visual studio 2012\Projects\Comparacion\Comparacion\bin\Debug\Comparacion.pdb
+c:\users\administrador\documents\visual studio 2012\Projects\Comparacion\Comparacion\obj\Debug\Comparacion.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2012\Projects\Comparacion\Comparacion\obj\Debug\Comparacion.exe
+c:\users\administrador\documents\visual studio 2012\Projects\Comparacion\Comparacion\obj\Debug\Comparacion.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Comparacion\Comparacion\bin\Debug\Comparacion.exe.config
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Comparacion\Comparacion\obj\Debug\Comparacion.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Comparacion\Comparacion\obj\Debug\Comparacion.pdb

@@ -1,0 +1,5 @@
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Arreglos\Arreglos Bidimensionales\Arreglos Bidimensionales\bin\Debug\Arreglos Bidimensionales.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Arreglos\Arreglos Bidimensionales\Arreglos Bidimensionales\bin\Debug\Arreglos Bidimensionales.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Arreglos\Arreglos Bidimensionales\Arreglos Bidimensionales\obj\Debug\Arreglos Bidimensionales.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Arreglos\Arreglos Bidimensionales\Arreglos Bidimensionales\obj\Debug\Arreglos Bidimensionales.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Arreglos\Arreglos Bidimensionales\Arreglos Bidimensionales\obj\Debug\Arreglos Bidimensionales.pdb

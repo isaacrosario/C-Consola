@@ -1,0 +1,18 @@
+C:\Users\Public\Pictures\Sample Pictures\Isaac practica\Comision\Comision\bin\Debug\Comision.exe.config
+C:\Users\Public\Pictures\Sample Pictures\Isaac practica\Comision\Comision\obj\Debug\Comision.csprojResolveAssemblyReference.cache
+C:\Users\Public\Pictures\Sample Pictures\Isaac practica\Comision\Comision\bin\Debug\Comision.exe
+C:\Users\Public\Pictures\Sample Pictures\Isaac practica\Comision\Comision\bin\Debug\Comision.pdb
+C:\Users\Public\Pictures\Sample Pictures\Isaac practica\Comision\Comision\obj\Debug\Comision.exe
+C:\Users\Public\Pictures\Sample Pictures\Isaac practica\Comision\Comision\obj\Debug\Comision.pdb
+F:\Comision\Comision\bin\Debug\Comision.exe.config
+F:\Comision\Comision\obj\Debug\Comision.exe
+F:\Comision\Comision\obj\Debug\Comision.pdb
+F:\Isaac Visual Studio\Comision\Comision\bin\Debug\Comision.exe.config
+F:\Isaac Visual Studio\Comision\Comision\obj\Debug\Comision.exe
+F:\Isaac Visual Studio\Comision\Comision\obj\Debug\Comision.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Comision\Comision\bin\Debug\Comision.exe.config
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Comision\Comision\obj\Debug\Comision.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Comision\Comision\obj\Debug\Comision.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Comision\Comision\bin\Debug\Comision.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Comision\Comision\bin\Debug\Comision.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Comision\Comision\obj\Debug\Comision.csprojResolveAssemblyReference.cache

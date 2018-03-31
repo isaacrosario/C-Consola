@@ -1,0 +1,15 @@
+C:\Users\Public\Pictures\Sample Pictures\Isaac practica\Comision segundo ejercicio\Comision segundo ejercicio\bin\Debug\Comision segundo ejercicio.exe.config
+C:\Users\Public\Pictures\Sample Pictures\Isaac practica\Comision segundo ejercicio\Comision segundo ejercicio\bin\Debug\Comision segundo ejercicio.exe
+C:\Users\Public\Pictures\Sample Pictures\Isaac practica\Comision segundo ejercicio\Comision segundo ejercicio\bin\Debug\Comision segundo ejercicio.pdb
+C:\Users\Public\Pictures\Sample Pictures\Isaac practica\Comision segundo ejercicio\Comision segundo ejercicio\obj\Debug\Comision segundo ejercicio.csprojResolveAssemblyReference.cache
+C:\Users\Public\Pictures\Sample Pictures\Isaac practica\Comision segundo ejercicio\Comision segundo ejercicio\obj\Debug\Comision segundo ejercicio.exe
+C:\Users\Public\Pictures\Sample Pictures\Isaac practica\Comision segundo ejercicio\Comision segundo ejercicio\obj\Debug\Comision segundo ejercicio.pdb
+F:\Isaac Visual Studio\Comision segundo ejercicio\Comision segundo ejercicio\bin\Debug\Comision segundo ejercicio.exe.config
+F:\Isaac Visual Studio\Comision segundo ejercicio\Comision segundo ejercicio\obj\Debug\Comision segundo ejercicio.exe
+F:\Isaac Visual Studio\Comision segundo ejercicio\Comision segundo ejercicio\obj\Debug\Comision segundo ejercicio.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Comision segundo ejercicio\Comision segundo ejercicio\bin\Debug\Comision segundo ejercicio.exe.config
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Comision segundo ejercicio\Comision segundo ejercicio\obj\Debug\Comision segundo ejercicio.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Comision segundo ejercicio\Comision segundo ejercicio\obj\Debug\Comision segundo ejercicio.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Comision segundo ejercicio\Comision segundo ejercicio\bin\Debug\Comision segundo ejercicio.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Comision segundo ejercicio\Comision segundo ejercicio\bin\Debug\Comision segundo ejercicio.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Comision segundo ejercicio\Comision segundo ejercicio\obj\Debug\Comision segundo ejercicio.csprojResolveAssemblyReference.cache

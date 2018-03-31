@@ -1,0 +1,15 @@
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Descuento\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Descuento\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Descuento\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Descuento\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Descuento\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Descuento\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Descuento  (recuerda isaac arreglar descuento)\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Descuento  (recuerda isaac arreglar descuento)\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Descuento  (recuerda isaac arreglar descuento)\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

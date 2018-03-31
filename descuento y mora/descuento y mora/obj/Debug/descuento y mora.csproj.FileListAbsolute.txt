@@ -1,0 +1,5 @@
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\descuento y mora\descuento y mora\obj\Debug\descuento y mora.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\descuento y mora\descuento y mora\bin\Debug\descuento y mora.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\descuento y mora\descuento y mora\bin\Debug\descuento y mora.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\descuento y mora\descuento y mora\obj\Debug\descuento y mora.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\descuento y mora\descuento y mora\obj\Debug\descuento y mora.pdb

@@ -1,0 +1,5 @@
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\DESCUENTO POR CATEGORIA\DESCUENTO POR CATEGORIA\bin\Debug\DESCUENTO POR CATEGORIA.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\DESCUENTO POR CATEGORIA\DESCUENTO POR CATEGORIA\bin\Debug\DESCUENTO POR CATEGORIA.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\DESCUENTO POR CATEGORIA\DESCUENTO POR CATEGORIA\obj\Debug\DESCUENTO POR CATEGORIA.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\DESCUENTO POR CATEGORIA\DESCUENTO POR CATEGORIA\obj\Debug\DESCUENTO POR CATEGORIA.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\DESCUENTO POR CATEGORIA\DESCUENTO POR CATEGORIA\obj\Debug\DESCUENTO POR CATEGORIA.pdb

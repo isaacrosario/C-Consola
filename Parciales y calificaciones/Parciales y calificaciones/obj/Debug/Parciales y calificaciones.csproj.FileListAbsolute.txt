@@ -1,0 +1,5 @@
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Parciales y calificaciones\Parciales y calificaciones\bin\Debug\Parciales y calificaciones.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Parciales y calificaciones\Parciales y calificaciones\bin\Debug\Parciales y calificaciones.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Parciales y calificaciones\Parciales y calificaciones\obj\Debug\Parciales y calificaciones.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Parciales y calificaciones\Parciales y calificaciones\obj\Debug\Parciales y calificaciones.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Parciales y calificaciones\Parciales y calificaciones\obj\Debug\Parciales y calificaciones.pdb

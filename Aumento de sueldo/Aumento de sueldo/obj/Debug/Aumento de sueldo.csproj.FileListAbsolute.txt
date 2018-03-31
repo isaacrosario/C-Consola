@@ -1,0 +1,12 @@
+C:\Users\Public\Pictures\Sample Pictures\Isaac practica\Aumento de sueldo\Aumento de sueldo\bin\Debug\Aumento de sueldo.exe.config
+C:\Users\Public\Pictures\Sample Pictures\Isaac practica\Aumento de sueldo\Aumento de sueldo\obj\Debug\Aumento de sueldo.csprojResolveAssemblyReference.cache
+C:\Users\Public\Pictures\Sample Pictures\Isaac practica\Aumento de sueldo\Aumento de sueldo\bin\Debug\Aumento de sueldo.exe
+C:\Users\Public\Pictures\Sample Pictures\Isaac practica\Aumento de sueldo\Aumento de sueldo\bin\Debug\Aumento de sueldo.pdb
+C:\Users\Public\Pictures\Sample Pictures\Isaac practica\Aumento de sueldo\Aumento de sueldo\obj\Debug\Aumento de sueldo.exe
+C:\Users\Public\Pictures\Sample Pictures\Isaac practica\Aumento de sueldo\Aumento de sueldo\obj\Debug\Aumento de sueldo.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Aumento de sueldo\Aumento de sueldo\bin\Debug\Aumento de sueldo.exe.config
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Aumento de sueldo\Aumento de sueldo\obj\Debug\Aumento de sueldo.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Aumento de sueldo\Aumento de sueldo\obj\Debug\Aumento de sueldo.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Aumento de sueldo\Aumento de sueldo\bin\Debug\Aumento de sueldo.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Aumento de sueldo\Aumento de sueldo\bin\Debug\Aumento de sueldo.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Aumento de sueldo\Aumento de sueldo\obj\Debug\Aumento de sueldo.csprojResolveAssemblyReference.cache

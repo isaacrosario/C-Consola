@@ -1,0 +1,5 @@
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\numeros pares del 2 al 10\numeros pares del 2 al 10\bin\Debug\numeros pares del 2 al 10.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\numeros pares del 2 al 10\numeros pares del 2 al 10\bin\Debug\numeros pares del 2 al 10.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\numeros pares del 2 al 10\numeros pares del 2 al 10\obj\Debug\numeros pares del 2 al 10.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\numeros pares del 2 al 10\numeros pares del 2 al 10\obj\Debug\numeros pares del 2 al 10.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\numeros pares del 2 al 10\numeros pares del 2 al 10\obj\Debug\numeros pares del 2 al 10.pdb

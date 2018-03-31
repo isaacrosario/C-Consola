@@ -1,0 +1,5 @@
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Area de un triangulo\Area de un triangulo\bin\Debug\Area de un triangulo.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Area de un triangulo\Area de un triangulo\bin\Debug\Area de un triangulo.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Area de un triangulo\Area de un triangulo\obj\Debug\Area de un triangulo.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Area de un triangulo\Area de un triangulo\obj\Debug\Area de un triangulo.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Area de un triangulo\Area de un triangulo\obj\Debug\Area de un triangulo.csprojResolveAssemblyReference.cache

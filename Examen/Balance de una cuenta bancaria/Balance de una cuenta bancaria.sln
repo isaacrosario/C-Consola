@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balance de una cuenta bancaria", "Balance de una cuenta bancaria\Balance de una cuenta bancaria.csproj", "{FC7E115D-9935-4E1E-84CB-D91ED0AD0BA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC7E115D-9935-4E1E-84CB-D91ED0AD0BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC7E115D-9935-4E1E-84CB-D91ED0AD0BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC7E115D-9935-4E1E-84CB-D91ED0AD0BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC7E115D-9935-4E1E-84CB-D91ED0AD0BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

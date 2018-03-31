@@ -1,0 +1,5 @@
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Numers impares del 1 al 11\Numers impares del 1 al 11\bin\Debug\Numers impares del 1 al 11.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Numers impares del 1 al 11\Numers impares del 1 al 11\bin\Debug\Numers impares del 1 al 11.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Numers impares del 1 al 11\Numers impares del 1 al 11\obj\Debug\Numers impares del 1 al 11.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Numers impares del 1 al 11\Numers impares del 1 al 11\obj\Debug\Numers impares del 1 al 11.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Numers impares del 1 al 11\Numers impares del 1 al 11\obj\Debug\Numers impares del 1 al 11.pdb

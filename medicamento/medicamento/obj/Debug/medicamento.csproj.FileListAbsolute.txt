@@ -1,0 +1,6 @@
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\medicamento\medicamento\bin\Debug\medicamento.exe.config
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\medicamento\medicamento\bin\Debug\medicamento.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\medicamento\medicamento\bin\Debug\medicamento.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\medicamento\medicamento\obj\Debug\medicamento.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\medicamento\medicamento\obj\Debug\medicamento.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\medicamento\medicamento\obj\Debug\medicamento.pdb

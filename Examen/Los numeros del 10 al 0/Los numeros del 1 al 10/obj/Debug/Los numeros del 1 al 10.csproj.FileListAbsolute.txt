@@ -1,0 +1,14 @@
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Los numeros del 1 al 10\Los numeros del 1 al 10\bin\Debug\Los numeros del 1 al 10.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Los numeros del 1 al 10\Los numeros del 1 al 10\bin\Debug\Los numeros del 1 al 10.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Los numeros del 1 al 10\Los numeros del 1 al 10\obj\Debug\Los numeros del 1 al 10.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Los numeros del 1 al 10\Los numeros del 1 al 10\obj\Debug\Los numeros del 1 al 10.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Los numeros del 0 al 10\Los numeros del 1 al 10\obj\Debug\Los numeros del 1 al 10.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Los numeros del 0 al 10\Los numeros del 1 al 10\obj\Debug\Los numeros del 1 al 10.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Los numeros del 0 al 10\Los numeros del 1 al 10\bin\Debug\Los numeros del 1 al 10.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Los numeros del 0 al 10\Los numeros del 1 al 10\bin\Debug\Los numeros del 1 al 10.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Los numeros del 0 al 10\Los numeros del 1 al 10\obj\Debug\Los numeros del 1 al 10.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Los numeros del 10 al 0\Los numeros del 1 al 10\obj\Debug\Los numeros del 1 al 10.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Los numeros del 10 al 0\Los numeros del 1 al 10\obj\Debug\Los numeros del 1 al 10.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Los numeros del 10 al 0\Los numeros del 1 al 10\bin\Debug\Los numeros del 1 al 10.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Los numeros del 10 al 0\Los numeros del 1 al 10\bin\Debug\Los numeros del 1 al 10.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Los numeros del 10 al 0\Los numeros del 1 al 10\obj\Debug\Los numeros del 1 al 10.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Isoseles Escalenos Equilatero\Isoseles Escalenos Equilatero\bin\Debug\Isoseles Escalenos Equilatero.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Isoseles Escalenos Equilatero\Isoseles Escalenos Equilatero\bin\Debug\Isoseles Escalenos Equilatero.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Isoseles Escalenos Equilatero\Isoseles Escalenos Equilatero\obj\Debug\Isoseles Escalenos Equilatero.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Isoseles Escalenos Equilatero\Isoseles Escalenos Equilatero\obj\Debug\Isoseles Escalenos Equilatero.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Isoseles Escalenos Equilatero\Isoseles Escalenos Equilatero\obj\Debug\Isoseles Escalenos Equilatero.csprojResolveAssemblyReference.cache

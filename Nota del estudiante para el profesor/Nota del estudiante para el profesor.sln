@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nota del estudiante para el profesor", "Nota del estudiante para el profesor\Nota del estudiante para el profesor.csproj", "{D6ABED5F-3B48-47B8-99AD-CCA162A666EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6ABED5F-3B48-47B8-99AD-CCA162A666EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6ABED5F-3B48-47B8-99AD-CCA162A666EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6ABED5F-3B48-47B8-99AD-CCA162A666EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6ABED5F-3B48-47B8-99AD-CCA162A666EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

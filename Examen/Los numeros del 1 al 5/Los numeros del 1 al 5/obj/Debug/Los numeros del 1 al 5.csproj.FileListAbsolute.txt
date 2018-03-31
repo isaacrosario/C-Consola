@@ -1,0 +1,4 @@
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Los numeros del 1 al 5\Los numeros del 1 al 5\bin\Debug\Los numeros del 1 al 5.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Los numeros del 1 al 5\Los numeros del 1 al 5\bin\Debug\Los numeros del 1 al 5.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Los numeros del 1 al 5\Los numeros del 1 al 5\obj\Debug\Los numeros del 1 al 5.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Los numeros del 1 al 5\Los numeros del 1 al 5\obj\Debug\Los numeros del 1 al 5.pdb

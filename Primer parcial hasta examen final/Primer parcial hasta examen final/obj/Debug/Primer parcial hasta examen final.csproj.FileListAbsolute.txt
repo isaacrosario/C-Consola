@@ -1,0 +1,5 @@
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Primer parcial hasta examen final\Primer parcial hasta examen final\bin\Debug\Primer parcial hasta examen final.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Primer parcial hasta examen final\Primer parcial hasta examen final\bin\Debug\Primer parcial hasta examen final.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Primer parcial hasta examen final\Primer parcial hasta examen final\obj\Debug\Primer parcial hasta examen final.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Primer parcial hasta examen final\Primer parcial hasta examen final\obj\Debug\Primer parcial hasta examen final.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Primer parcial hasta examen final\Primer parcial hasta examen final\obj\Debug\Primer parcial hasta examen final.pdb

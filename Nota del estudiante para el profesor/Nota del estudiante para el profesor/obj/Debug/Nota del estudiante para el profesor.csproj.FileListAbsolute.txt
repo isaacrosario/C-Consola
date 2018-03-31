@@ -1,0 +1,5 @@
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Nota del estudiante para el profesor\Nota del estudiante para el profesor\bin\Debug\Nota del estudiante para el profesor.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Nota del estudiante para el profesor\Nota del estudiante para el profesor\bin\Debug\Nota del estudiante para el profesor.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Nota del estudiante para el profesor\Nota del estudiante para el profesor\obj\Debug\Nota del estudiante para el profesor.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Nota del estudiante para el profesor\Nota del estudiante para el profesor\obj\Debug\Nota del estudiante para el profesor.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Nota del estudiante para el profesor\Nota del estudiante para el profesor\obj\Debug\Nota del estudiante para el profesor.pdb

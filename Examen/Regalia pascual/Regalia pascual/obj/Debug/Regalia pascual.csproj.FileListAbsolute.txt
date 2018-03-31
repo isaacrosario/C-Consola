@@ -1,0 +1,5 @@
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Regalia pascual\Regalia pascual\obj\Debug\Regalia pascual.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Regalia pascual\Regalia pascual\bin\Debug\Regalia pascual.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Regalia pascual\Regalia pascual\bin\Debug\Regalia pascual.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Regalia pascual\Regalia pascual\obj\Debug\Regalia pascual.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Regalia pascual\Regalia pascual\obj\Debug\Regalia pascual.pdb

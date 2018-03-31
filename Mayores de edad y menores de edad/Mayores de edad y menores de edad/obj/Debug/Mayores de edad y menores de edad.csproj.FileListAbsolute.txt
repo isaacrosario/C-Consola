@@ -1,0 +1,5 @@
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Mayores de edad y menores de edad\Mayores de edad y menores de edad\bin\Debug\Mayores de edad y menores de edad.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Mayores de edad y menores de edad\Mayores de edad y menores de edad\bin\Debug\Mayores de edad y menores de edad.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Mayores de edad y menores de edad\Mayores de edad y menores de edad\obj\Debug\Mayores de edad y menores de edad.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Mayores de edad y menores de edad\Mayores de edad y menores de edad\obj\Debug\Mayores de edad y menores de edad.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Mayores de edad y menores de edad\Mayores de edad y menores de edad\obj\Debug\Mayores de edad y menores de edad.pdb

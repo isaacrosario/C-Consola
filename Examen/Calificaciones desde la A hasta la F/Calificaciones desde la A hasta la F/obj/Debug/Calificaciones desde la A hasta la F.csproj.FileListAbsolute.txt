@@ -1,0 +1,9 @@
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Calificaciones desde la A hasta la F\Calificaciones desde la A hasta la F\bin\Debug\Calificaciones desde la A hasta la F.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Calificaciones desde la A hasta la F\Calificaciones desde la A hasta la F\bin\Debug\Calificaciones desde la A hasta la F.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Calificaciones desde la A hasta la F\Calificaciones desde la A hasta la F\obj\Debug\Calificaciones desde la A hasta la F.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Calificaciones desde la A hasta la F\Calificaciones desde la A hasta la F\obj\Debug\Calificaciones desde la A hasta la F.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Calificaciones desde la A hasta la F\Calificaciones desde la A hasta la F\obj\Debug\Calificaciones desde la A hasta la F.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Calificaciones desde la A hasta la F\Calificaciones desde la A hasta la F\obj\Debug\Calificaciones desde la A hasta la F.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Calificaciones desde la A hasta la F\Calificaciones desde la A hasta la F\bin\Debug\Calificaciones desde la A hasta la F.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Calificaciones desde la A hasta la F\Calificaciones desde la A hasta la F\bin\Debug\Calificaciones desde la A hasta la F.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Calificaciones desde la A hasta la F\Calificaciones desde la A hasta la F\obj\Debug\Calificaciones desde la A hasta la F.csprojResolveAssemblyReference.cache

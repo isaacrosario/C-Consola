@@ -1,0 +1,5 @@
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Balance de una cuenta bancaria\Balance de una cuenta bancaria\bin\Debug\Balance de una cuenta bancaria.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Balance de una cuenta bancaria\Balance de una cuenta bancaria\bin\Debug\Balance de una cuenta bancaria.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Balance de una cuenta bancaria\Balance de una cuenta bancaria\obj\Debug\Balance de una cuenta bancaria.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Balance de una cuenta bancaria\Balance de una cuenta bancaria\obj\Debug\Balance de una cuenta bancaria.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Examen\Balance de una cuenta bancaria\Balance de una cuenta bancaria\obj\Debug\Balance de una cuenta bancaria.pdb

@@ -1,0 +1,5 @@
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Arreglos\Metodo de burbujas\Metodo de burbujas\bin\Debug\Metodo de burbujas.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Arreglos\Metodo de burbujas\Metodo de burbujas\bin\Debug\Metodo de burbujas.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Arreglos\Metodo de burbujas\Metodo de burbujas\obj\Debug\Metodo de burbujas.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Arreglos\Metodo de burbujas\Metodo de burbujas\obj\Debug\Metodo de burbujas.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Arreglos\Metodo de burbujas\Metodo de burbujas\obj\Debug\Metodo de burbujas.pdb

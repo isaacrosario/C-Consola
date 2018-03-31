@@ -1,0 +1,5 @@
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Arreglos\Menus y subrutinas\Menus y subrutinas\bin\Debug\Menus y subrutinas.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Arreglos\Menus y subrutinas\Menus y subrutinas\bin\Debug\Menus y subrutinas.pdb
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Arreglos\Menus y subrutinas\Menus y subrutinas\obj\Debug\Menus y subrutinas.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Arreglos\Menus y subrutinas\Menus y subrutinas\obj\Debug\Menus y subrutinas.exe
+C:\Users\Administrador\Desktop\Isaac Visual Studio (No borrar)\Arreglos\Menus y subrutinas\Menus y subrutinas\obj\Debug\Menus y subrutinas.pdb
